@@ -17,7 +17,7 @@ function TodoCounter(){
           Cargando TODOS...
         </h1>
       )
-    }else if(props.total === 0){
+    }else if(props.totalTodos === 0){
       return(
         // <h1>💎Felicidades no tienes TODOS por completar💎</h1>
         <DiamondIcon/>
