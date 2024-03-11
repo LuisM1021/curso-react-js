@@ -1,0 +1,14 @@
+.emptyTodoMessage{
+    list-style: none;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    background-color: rgb(147, 142, 142);
+    align-items: center;
+    margin-bottom: 16px;
+    height:64px;
+    border-radius: 4px;
+    font-weight: bold;
+    color: purple;
+    font-size: 16px;
+}

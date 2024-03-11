@@ -1,0 +1,7 @@
+.principal-container{
+    display: flex;
+    flex-direction: column;
+    padding: 0 24px;
+    align-items: center;
+    position: relative;
+}

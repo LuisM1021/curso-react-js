@@ -1,0 +1,20 @@
+div{
+    display: flex;
+}
+.button-add{
+    background-color: transparent;
+    border: none;
+    transform: rotate(0);
+    transition: .3s ease;
+    position: absolute; 
+    bottom: -16px;
+    right: 24px;
+    z-index: 1;
+}
+.button-add:hover{
+    transform: rotate(360deg);
+}
+img{
+    width: 52px;
+    height: 52px;
+}

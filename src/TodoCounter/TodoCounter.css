@@ -1,0 +1,15 @@
+h1{
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+    padding: 48px;
+}
+h1 span:nth-child(1){
+    color: blue;
+}
+h1 span:nth-child(2){
+    color: brown;
+}
+.loading-state{
+    color: rgb(8, 108, 75);
+}
